@@ -1,1 +1,3 @@
 veritabani.txt
+gitBelgeler/*
+!gitBelgeler/1.txt
